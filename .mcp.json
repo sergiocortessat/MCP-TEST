@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "outreach-railway": {
+      "url": "https://mcp-test-production-303973cb.up.railway.app/mcp"
+    }
+  }
+}
